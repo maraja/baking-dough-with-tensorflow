@@ -56,8 +56,8 @@
 
 import numpy as np
 import tensorflow as tf
-import download
-from cache import cache
+from data import download
+from data.cache import cache
 import os
 import sys
 
